@@ -1,0 +1,25 @@
+{
+  "version": "2.0-category-chunk",
+  "metadata": {
+    "categoryId": "default",
+    "categoryName": "عام",
+    "totalItems": 2,
+    "lastUpdated": "2026-01-19T20:35:31.991Z"
+  },
+  "repository": [
+    {
+      "id": "jpffqhd14",
+      "title": "vip.shahedpro.com",
+      "url": "https://vip.shahedpro.com/genres/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D9%84%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%82%D8%B7/page/1/",
+      "timestamp": 1767186132501,
+      "categoryId": "default"
+    },
+    {
+      "id": "pidvs4z0p",
+      "title": "https://vip.shahedpro.com/genres/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D9%84%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%82%D8%B7/page/2/",
+      "url": "https://vip.shahedpro.com/genres/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D9%84%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%82%D8%B7/page/2/",
+      "timestamp": 1767186154830,
+      "categoryId": "default"
+    }
+  ]
+}
